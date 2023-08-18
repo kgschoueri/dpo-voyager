@@ -133,7 +133,6 @@ Annotations can be customized to suit the specific needs of the project. Below a
 * Tip: If using both a Lead and Article Link it is a good idea to add an extra space under your lead by hitting enter after your last word in the Lead Text field. This creates extra space for the 'Read more' text and there isn't overlap
  </details>
  
-	</details>
 
 <details>
  <summary><b><font size="+2">More Tips and Tricks for Annotations</font></u></b></summary> 	
